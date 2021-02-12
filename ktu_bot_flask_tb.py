@@ -73,7 +73,7 @@ def getMessage():
 @server.route("/")
 def webhook():
     bot.remove_webhook()
-    bot.set_webhook(url={hosted url[https://nnn9090q.herokuapp.com/]} + TOKEN)
+    bot.set_webhook(url={https://nnn9090q.herokuapp.com/[heroku]} + TOKEN)
     return "!", 200
 
 
